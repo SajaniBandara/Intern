@@ -1,0 +1,383 @@
+[
+  {
+    "timestamp": "2025-08-13T16:00:00",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_03",
+      "Product_name": "Highland Full Cream Milk (1L)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:01:30",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_07",
+      "Product_name": "Maliban Chocolate Cream Biscuits (100g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:03:15",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_S_03",
+      "Product_name": "Elephant House Cream Soda (1.5L)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:05:45",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_S_04",
+      "Product_name": "Lion Beer (330ml)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:07:20",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_15",
+      "Product_name": "Anchor Full Cream Milk Powder (400g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:10:00",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_B_03",
+      "Product_name": "Kotmale Yoghurt (80g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:12:15",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_09",
+      "Product_name": "MD Canned Fish (425g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:13:40",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_B_04",
+      "Product_name": "Sunlight Soap (110g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:15:20",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_08",
+      "Product_name": "Ambewela Cheese (250g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:17:30",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_F_06",
+      "Product_name": "Prima Kottu Mee (80g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:20:00",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_A_01",
+      "Product_name": "Prima Wheat Flour (1kg)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:22:10",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_V_02",
+      "Product_name": "Siddhalepa Balm (10g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:24:35",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_S_05",
+      "Product_name": "Coca-Cola (1.5L)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:26:45",
+    "Status": "System Crash",
+    "station_id": "SCC1",
+    "data": {}
+  },
+  {
+    "timestamp": "2025-08-13T16:28:15",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_H_02",
+      "Product_name": "Wijaya Curry Powder (100g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:33:20",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_F_11",
+      "Product_name": "Elephant House Tomato Sauce (400g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:35:00",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_05",
+      "Product_name": "Laojee Tea (400g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:39:30",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_14",
+      "Product_name": "Nestomalt (400g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:41:50",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_A_03",
+      "Product_name": "Fortune White Basmati Rice (5kg)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:44:05",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_F_13",
+      "Product_name": "Maliban Lemon Puff (200g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:46:30",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_C_04",
+      "Product_name": "Tipi Tip Potato Chips (60g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:48:45",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_B_05",
+      "Product_name": "Signal Toothpaste (120g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:55:40",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_F_04",
+      "Product_name": "Keells Chicken Sausages (340g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:57:55",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_B_01",
+      "Product_name": "Samaposha (200g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:00:10",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_F_02",
+      "Product_name": "Elephant House Vanilla Ice Cream (1L)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:04:40",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_T_05",
+      "Product_name": "Keells Chicken Nuggets (400g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:06:55",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_S_04",
+      "Product_name": "Lion Beer (330ml)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:09:10",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_H_05",
+      "Product_name": "Ran Kahata Tea (200g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:13:40",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_A_04",
+      "Product_name": "Ceylon Tea (100g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:20:25",
+    "Status": "System Crash",
+    "station_id": "SCC1",
+    "data": {}
+  },
+  {
+    "timestamp": "2025-08-13T17:22:40",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_C_01",
+      "Product_name": "CBL Munchee Lemon Puff (200g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:24:55",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_F_15",
+      "Product_name": "Anchor Full Cream Milk Powder (400g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:27:10",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_C_03",
+      "Product_name": "Maliban Gold Marie (75g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:31:40",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_T_03",
+      "Product_name": "Perera & Sons Fish Bun (75g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:33:55",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_H_04",
+      "Product_name": "Motha Jelly Crystal (100g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:40:40",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_V_01",
+      "Product_name": "Panadol (24 tablets)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:42:55",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_H_03",
+      "Product_name": "Rathna Thilpiate (100g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:45:10",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_A_03",
+      "Product_name": "Fortune White Basmati Rice (5kg)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:47:25",
+    "Status": "Active",
+    "station_id": "SCC1",
+    "data": {
+      "SKU": "PRD_B_02",
+      "Product_name": "Raigam Soya Meat (110g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:49:40",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_F_10",
+      "Product_name": "Astra Margarine (250g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:51:55",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_V_04",
+      "Product_name": "Iodex Pain Relief Balm (25g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:56:25",
+    "Status": "Active",
+    "station_id": "SCC2",
+    "data": {
+      "SKU": "PRD_C_05",
+      "Product_name": "Lanka Soy Meat Curry (90g)"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:58:40",
+    "Status": "Active",
+    "station_id": "SCC3",
+    "data": {
+      "SKU": "PRD_T_01",
+      "Product_name": "Highland UHT Milk (1L)"
+    }
+  }
+]

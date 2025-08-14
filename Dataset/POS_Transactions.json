@@ -1,0 +1,482 @@
+[
+  {
+    "timestamp": "2025-08-13T16:00:00",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C001",
+      "SKU": "PRD_F_03",
+      "Product name": "Highland Full Cream Milk (1L)",
+      "barcode": "4792099010016",
+      "price": 380.0,
+      "weight": "1000.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:01:30",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C002",
+      "SKU": "PRD_F_07",
+      "Product name": "Maliban Chocolate Cream Biscuits (100g)",
+      "barcode": "4791025111016",
+      "price": 170.0,
+      "weight": "100.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:03:15",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C003",
+      "SKU": "PRD_S_03",
+      "Product name": "Elephant House Cream Soda (1.5L)",
+      "barcode": "4792020170712",
+      "price": 220.0,
+      "weight": "1500.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:07:20",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C005",
+      "SKU": "PRD_F_15",
+      "Product name": "Anchor Full Cream Milk Powder (400g)",
+      "barcode": "4792099020015",
+      "price": 900.0,
+      "weight": "400.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:10:00",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C006",
+      "SKU": "PRD_B_03",
+      "Product name": "Kotmale Yoghurt (80g)",
+      "barcode": "4792172003737",
+      "price": 70.0,
+      "weight": "80.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:12:15",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C007",
+      "SKU": "PRD_F_09",
+      "Product name": "MD Canned Fish (425g)",
+      "barcode": "4792098010013",
+      "price": 650.0,
+      "weight": "680g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:13:40",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C008",
+      "SKU": "PRD_B_04",
+      "Product name": "Sunlight Soap (110g)",
+      "barcode": "4792081000131",
+      "price": 95.0,
+      "weight": "110.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:15:20",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C009",
+      "SKU": "PRD_F_07",
+      "Product name": "Maliban Chocolate Cream Biscuits (100g)",
+      "barcode": "4791025111016",
+      "price": 170.0,
+      "weight": "100.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:17:30",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C010",
+      "SKU": "PRD_F_06",
+      "Product name": "Prima Kottu Mee (80g)",
+      "barcode": "4792018180288",
+      "price": 90.0,
+      "weight": "80.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:20:00",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C011",
+      "SKU": "PRD_A_01",
+      "Product name": "Prima Wheat Flour (1kg)",
+      "barcode": "4792018110010",
+      "price": 275.0,
+      "weight": "1000.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:24:35",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C013",
+      "SKU": "PRD_S_05",
+      "Product name": "Coca-Cola (1.5L)",
+      "barcode": "4792020171429",
+      "price": 270.0,
+      "weight": "1500.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:26:45",
+    "station_id": "SCC1",
+    "Status": "System Crash",
+    "data": {}
+  },
+  {
+    "timestamp": "2025-08-13T16:28:15",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C014",
+      "SKU": "PRD_H_02",
+      "Product name": "Wijaya Curry Powder (100g)",
+      "barcode": "4796005521018",
+      "price": 160.0,
+      "weight": "100.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:33:20",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C016",
+      "SKU": "PRD_F_11",
+      "Product name": "Elephant House Tomato Sauce (400g)",
+      "barcode": "4792020170538",
+      "price": 315.0,
+      "weight": "400.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:35:00",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C017",
+      "SKU": "PRD_F_05",
+      "Product name": "Laojee Tea (400g)",
+      "barcode": "4796005660014",
+      "price": 525.0,
+      "weight": "400.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:39:30",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C018",
+      "SKU": "PRD_F_14",
+      "Product name": "Nestomalt (400g)",
+      "barcode": "4792024011348",
+      "price": 540.0,
+      "weight": "400.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:41:50",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C019",
+      "SKU": "PRD_F_01",
+      "Product name": "Munchee Chocolate Marie (150g)",
+      "barcode": "4790015610019",
+      "price": 280.0,
+      "weight": "150.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:44:05",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C020",
+      "SKU": "PRD_F_13",
+      "Product name": "Maliban Lemon Puff (200g)",
+      "barcode": "4791025110019",
+      "price": 300.0,
+      "weight": "200.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:48:45",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C022",
+      "SKU": "PRD_B_05",
+      "Product name": "Signal Toothpaste (120g)",
+      "barcode": "4792081001152",
+      "price": 320.0,
+      "weight": "120.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:55:40",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C025",
+      "SKU": "PRD_F_04",
+      "Product name": "Keells Chicken Sausages (340g)",
+      "barcode": "4792172000125",
+      "price": 560.0,
+      "weight": "420g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T16:57:55",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C026",
+      "SKU": "PRD_B_01",
+      "Product name": "Samaposha (200g)",
+      "barcode": "4796001410129",
+      "price": 190.0,
+      "weight": "200.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:00:10",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C027",
+      "SKU": "PRD_F_02",
+      "Product name": "Elephant House Vanilla Ice Cream (1L)",
+      "barcode": "4792020100016",
+      "price": 650.0,
+      "weight": "1000.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:04:40",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C029",
+      "SKU": "PRD_B_03",
+      "Product name": "Kotmale Yoghurt (80g)",
+      "barcode": "4792172003737",
+      "price": 70.0,
+      "weight": "80.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:09:10",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C031",
+      "SKU": "PRD_H_05",
+      "Product name": "Ran Kahata Tea (200g)",
+      "barcode": "4796005660038",
+      "price": 380.0,
+      "weight": "200.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:13:40",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C032",
+      "SKU": "PRD_A_04",
+      "Product name": "Ceylon Tea (100g)",
+      "barcode": "4796005660021",
+      "price": 320.0,
+      "weight": "100.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:20:25",
+    "station_id": "SCC1",
+    "Status": "System Crash",
+    "data": {}
+  },
+  {
+    "timestamp": "2025-08-13T17:22:40",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C034",
+      "SKU": "PRD_C_01",
+      "Product name": "CBL Munchee Lemon Puff (200g)",
+      "barcode": "4790015610026",
+      "price": 320.0,
+      "weight": "200.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:24:55",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C035",
+      "SKU": "PRD_F_03",
+      "Product name": "Highland Full Cream Milk (1L)",
+      "barcode": "4792099010016",
+      "price": 380.0,
+      "weight": "1000.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:27:10",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C036",
+      "SKU": "PRD_C_03",
+      "Product name": "Maliban Gold Marie (75g)",
+      "barcode": "4791025112013",
+      "price": 90.0,
+      "weight": "75.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:33:55",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C039",
+      "SKU": "PRD_H_04",
+      "Product name": "Motha Jelly Crystal (100g)",
+      "barcode": "4792020170019",
+      "price": 70.0,
+      "weight": "100.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:40:40",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C042",
+      "SKU": "PRD_V_01",
+      "Product name": "Panadol (24 tablets)",
+      "barcode": "4792172005014",
+      "price": 95.0,
+      "weight": "24.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:42:55",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C043",
+      "SKU": "PRD_H_03",
+      "Product name": "Rathna Thilpiate (100g)",
+      "barcode": "4796005522015",
+      "price": 175.0,
+      "weight": "100.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:45:10",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C044",
+      "SKU": "PRD_A_03",
+      "Product name": "Fortune White Basmati Rice (5kg)",
+      "barcode": "4792172004512",
+      "price": 2300.0,
+      "weight": "5750g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:47:25",
+    "station_id": "SCC1",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C045",
+      "SKU": "PRD_B_02",
+      "Product name": "Raigam Soya Meat (110g)",
+      "barcode": "4792172002020",
+      "price": 130.0,
+      "weight": "110.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:49:40",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C046",
+      "SKU": "PRD_F_10",
+      "Product name": "Astra Margarine (250g)",
+      "barcode": "4796005651012",
+      "price": 420.0,
+      "weight": "250.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:51:55",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C047",
+      "SKU": "PRD_V_04",
+      "Product name": "Iodex Pain Relief Balm (25g)",
+      "barcode": "4792081002012",
+      "price": 180.0,
+      "weight": "25.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:56:25",
+    "station_id": "SCC2",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C049",
+      "SKU": "PRD_C_05",
+      "Product name": "Lanka Soy Meat Curry (90g)",
+      "barcode": "4796001412018",
+      "price": 150.0,
+      "weight": "90.0g"
+    }
+  },
+  {
+    "timestamp": "2025-08-13T17:58:40",
+    "station_id": "SCC3",
+    "Status": "Active",
+    "data": {
+      "customer_id": "C050",
+      "SKU": "PRD_T_01",
+      "Product name": "Highland UHT Milk (1L)",
+      "barcode": "4792099010023",
+      "price": 360.0,
+      "weight": "1000.0g"
+    }
+  }
+]
