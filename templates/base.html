@@ -1,11 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% block title %}{% endblock %}
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    {% block body %}{% endblock %}
+    <div class="sidebar">
+        <ul class="nav-list">
+            <li class="{% if request.path == '/' %}active{% endif %}">
+                <a href="{{ url_for('index') }}">Station 1</a>
+            </li>
+            <li class="{% if request.path == '/station2' %}active{% endif %}">
+                <a href="{{ url_for('station2') }}">Station 2</a>
+            </li>
+            <li class="{% if request.path == '/station3' %}active{% endif %}">
+                <a href="{{ url_for('station3') }}">Station 3</a>
+            </li>
+        </ul>
+    </div>
+    <div class="content">
+        {% block body %}{% endblock %}
+    </div>
 </body>
 </html>
